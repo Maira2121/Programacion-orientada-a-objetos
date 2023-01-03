@@ -1,4 +1,4 @@
-## Bienvenido al repositorio creado para el para practicas de programación orientada a objetos!
+## Bienvenido al repositorio creado para practicas de programación orientada a objetos!
 
 ** Descripción:**
 Manejo de Clases y Objetos en Java:
